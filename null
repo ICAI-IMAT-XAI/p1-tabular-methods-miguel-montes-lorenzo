@@ -1,0 +1,31 @@
+2025-11-07 20:13:08.259681000  INFO Registering workspace: \\wsl.localhost\Ubuntu-24.04\home\miguelmnts\data\xai\p1-tabular-methods-miguel-montes-lorenzo
+2025-11-07 20:13:08.275457600  INFO Configuration file watcher successfully registered
+2025-11-07 20:13:13.508651900  INFO Server shut down
+2025-11-07 20:13:15.071614700 ERROR Unable to load editor-specified configuration file
+
+Caused by:
+    0: Failed to load configuration `\\wsl.localhost\Ubuntu-24.04\home\miguelmnts\data\xai\p1-tabular-methods-miguel-montes-lorenzo\null`
+    1: Failed to parse \\wsl.localhost\Ubuntu-24.04\home\miguelmnts\data\xai\p1-tabular-methods-miguel-montes-lorenzo\null
+    2: TOML parse error at line 1, column 12
+         |
+       1 | 2025-11-07 20:13:08.259681000  INFO Registering workspace: \\wsl.localhost\Ubuntu-24.04\home\miguelmnts\data\xai\p1-tabular-methods-miguel-montes-lorenzo
+         |            ^
+       key with no value, expected `=`
+       
+2025-11-07 20:13:15.215624000  INFO Registering workspace: \\wsl.localhost\Ubuntu-24.04\home\miguelmnts\data\xai\p1-tabular-methods-miguel-montes-lorenzo
+2025-11-07 20:13:15.219414600  INFO Configuration file watcher successfully registered
+2025-11-07 20:13:20.529168900  INFO Server shut down
+2025-11-07 20:13:21.849407200 ERROR Unable to load editor-specified configuration file
+
+Caused by:
+    0: Failed to load configuration `\\wsl.localhost\Ubuntu-24.04\home\miguelmnts\data\xai\p1-tabular-methods-miguel-montes-lorenzo\null`
+    1: Failed to parse \\wsl.localhost\Ubuntu-24.04\home\miguelmnts\data\xai\p1-tabular-methods-miguel-montes-lorenzo\null
+    2: TOML parse error at line 1, column 12
+         |
+       1 | 2025-11-07 20:13:08.259681000  INFO Registering workspace: \\wsl.localhost\Ubuntu-24.04\home\miguelmnts\data\xai\p1-tabular-methods-miguel-montes-lorenzo
+         |            ^
+       key with no value, expected `=`
+       
+2025-11-07 20:13:21.935150400  INFO Registering workspace: \\wsl.localhost\Ubuntu-24.04\home\miguelmnts\data\xai\p1-tabular-methods-miguel-montes-lorenzo
+2025-11-07 20:13:21.937272200  INFO Configuration file watcher successfully registered
+2025-11-07 20:18:23.174653700  INFO Server shut down
